@@ -24,3 +24,5 @@ const paul = {
   languages: ["Python", "C", "Bash", "PowerShell"],
   focus: "Internal network exploitation, CTFs & custom tooling"
 };
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul7436&layout=compact&theme=tokyonight" />
