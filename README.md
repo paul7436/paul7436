@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Paul</h1>
+  <p>Final-year Computer Science Engineering Student | Cybersecurity & Red Teaming</p>
 
-<!--
-**paul7436/paul7436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Ton GIF Baki -->
+  <img src="./baki.gif" alt="Baki Hanma" width="550" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+```javascript
+const paul = {
+  status: "Final-year Computer Science Engineering Student",
+  specialization: "Offensive Security & Red Teaming",
+  coreSkills: [
+    "Red Teaming",
+    "Penetration Testing",
+    "Reverse Engineering",
+    "OSINT",
+    "Active Directory Security"
+  ],
+  languages: ["Python", "C", "Bash", "PowerShell"],
+  focus: "Internal network exploitation, CTFs & custom tooling"
+};
