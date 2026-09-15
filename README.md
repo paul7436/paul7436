@@ -25,4 +25,4 @@ const paul = {
   focus: "Internal network exploitation, CTFs & custom tooling"
 };
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul7436&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=paul7436&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
