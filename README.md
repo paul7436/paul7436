@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Paul</h1>
+  <h1>Hi, I'm Specsaiko</h1>
   <p>Final-year Computer Science Engineering Student | Cybersecurity & Red Teaming</p>
 
   <img src="./baki.gif" alt="Baki Hanma" width="550" />
