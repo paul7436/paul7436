@@ -28,3 +28,12 @@ const paul = {
   languages: ["Python", "C", "Bash", "PowerShell"],
   focus: "Internal network exploitation, CTFs & custom tooling"
 };
+```
+
+<br/>
+
+### Contributions
+
+<div align="center">
+  <img src="./game.gif" alt="Space Shooter contributions" width="100%" />
+</div>
